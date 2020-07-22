@@ -11,4 +11,4 @@ try {
     die();
 }
 
-return($pdo);
+return $pdo;
